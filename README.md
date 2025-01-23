@@ -4,4 +4,4 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/OkulusDev/AlinaG12)
 ![GitHub issues](https://img.shields.io/github/issues/OkulusDev/AlinaG12)
 
-![Logotype](https://drive.google.com/file/d/18RENPC5QgmrsYCiAYqYKZvgxcYzaD5kz/view?usp=drive_link)
+![Logotype](m_online_logo.jpg)
