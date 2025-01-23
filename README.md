@@ -5,3 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/OkulusDev/AlinaG12)
 
 ![Logotype](https://github.com/AlinaG12/praktika/blob/main/m_online_logo.jpg)
+
+<div id="header" align="center">
+  <img src="https://github.com/AlinaG12/praktika/blob/main/m_online_logo.jpg" width="300"/>
+</div>
