@@ -16,16 +16,7 @@
 
 -- Конспекты --
 <div id="badges" align="center">
-   <a href="https://docs.google.com/document/d/1wW1VTqci4CQpBufEVB2aF3seK_H1F0Tfsun445F-MXA/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/stepik-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1Bd-BcnNFzWrUFCIcI8RY9_pwwMU5GdgS4D1Pw1SMkzM/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/основной конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1URm9x4TCR3_HDEC2RlF8Hxmdc7ksKwj4Hs7N6f_WZ7o/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/открытые уроки-black?style=for-the-badge&logo=computer&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1d6gGWea97nKSDp2xqEas_v-q4hXFkzkDnWIHAOEpheo/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/13tcaRVFtl_2VQfWhaBLuWDtlPttOuP7EM8jObVkV7NE/edit?usp=sharing">
     <img src="https://img.shields.io/badge/работы/тесты-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
   </a>
 </div >
