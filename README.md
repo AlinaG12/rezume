@@ -31,7 +31,7 @@
 
 ## Практика
 <div id="badges" align="center">
-   <a href="loony211.github.io/praktika/practika.html">
+   <a href="https://github.com/AlinaG12/praktika/blob/main/Championship%20(1).zip">
     <img src="https://img.shields.io/badge/сайт-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
  </a>
 </div >
