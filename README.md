@@ -3,7 +3,7 @@
    <a href="https://drive.google.com/drive/folders/1KV4bMkyje_CK22tyQ9mBcmQxMSKWBu5C?usp=drive_link">
     <img src="https://img.shields.io/badge/google drive-pink?style=for-the-badge&logo=google drive&logoColor=white" alt="Badge"/>
   </a>
-  <a href="https://docs.google.com/document/d/1gSQgqnEO5RZiQ0fnucTDvoL79OACgUtZl2idqmJ619A/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/1-RZ98KG-zA5Iu280DaotLrspufq2b5nph2jlgIA-Xxc/edit?usp=sharing">
     <img src="https://img.shields.io/badge/конспект-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
   <a href="https:https://drive.google.com/drive/folders/1lHSqsimNNQ6zKUgW5ORlAiLfgMDrwUMw">
