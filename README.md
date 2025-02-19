@@ -1,4 +1,4 @@
-## Algoritmizacia
+## Алгоритмизация
 <div id="badges" align="center">
    <a href="https://drive.google.com/drive/folders/1KV4bMkyje_CK22tyQ9mBcmQxMSKWBu5C?usp=drive_link">
     <img src="https://img.shields.io/badge/google drive-pink?style=for-the-badge&logo=google drive&logoColor=white" alt="Badge"/>
@@ -11,9 +11,6 @@
   </a>
   <a href="https://drive.google.com/drive/folders/1r5KKXfh3mq_bHh2KrkAC3l-aIzP12OIa">
     <img src="https://img.shields.io/badge/новелла-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
-  </a>
-   <a href="https://docs.google.com/document/d/1AMxFAdFn73O3antWuXB2w1To25ft3j19-hwMTU7aTuE/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/доктрина-black?style=for-the-badge&logo=twine&logoColor=white" alt="Badge"/>
   </a>
 </div >
 <div align="center">
