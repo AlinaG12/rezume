@@ -1,6 +1,6 @@
 ## Algoritmizacia
 <div id="badges" align="center">
-   <a href="https://drive.google.com/drive/folders/1KQCR0-aPK_FP8XVTbpYnpEWfyIPGP0vX">
+   <a href="https://drive.google.com/drive/folders/1KV4bMkyje_CK22tyQ9mBcmQxMSKWBu5C?usp=drive_link">
     <img src="https://img.shields.io/badge/google drive-pink?style=for-the-badge&logo=google drive&logoColor=white" alt="Badge"/>
   </a>
   <a href="https://docs.google.com/document/d/1gSQgqnEO5RZiQ0fnucTDvoL79OACgUtZl2idqmJ619A/edit?usp=sharing">
