@@ -23,11 +23,8 @@
 <div align="center">
 -- Презентации --
 <div id="badges" align="center">
-   <a href="https://docs.google.com/presentation/d/1VOGdYVVg7ED0S4ggrrTiFzDes7Nx1DIE/edit?usp=sharing&ouid=101743919987561321728&rtpof=true&sd=true">
+   <a href="https://docs.google.com/presentation/d/15Pe53C1xc8R2VfRNTM0Sq_NhDnxrLoRf/edit?usp=sharing&ouid=116796848524427083455&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/тела вращения вокруг нас-black?style=for-the-badge&logo=stepik&logoColor=white" alt="Badge"/>
-  </a>
-  <a href="https://loony211.github.io/PredmetyLN_eliseev/4vid..html">
-    <img src="https://img.shields.io/badge/презентация LibreOffice Base и SQL DBbrowser-black?style=for-the-badge&logo=pen&logoColor=white" alt="Badge"/>
   </a>
 </div >
 <div align="center">
